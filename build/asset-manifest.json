@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-streaming-site/static/css/main.50d77912.css",
+    "main.js": "/movies-streaming-site/static/js/main.14e09c4c.js",
+    "index.html": "/movies-streaming-site/index.html",
+    "main.50d77912.css.map": "/movies-streaming-site/static/css/main.50d77912.css.map",
+    "main.14e09c4c.js.map": "/movies-streaming-site/static/js/main.14e09c4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d77912.css",
+    "static/js/main.14e09c4c.js"
+  ]
+}
