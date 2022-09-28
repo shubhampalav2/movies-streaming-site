@@ -1,5 +1,6 @@
 {
   "name": "moviestreamingsite",
+   "homepage":"https://shubhampalav2.github.io/movies-streaming-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
