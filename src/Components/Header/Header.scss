@@ -1,0 +1,27 @@
+.header{
+background-color: black;
+height:100px;
+color:crimson;
+display: flex;
+align-items: center;
+padding:2rem;
+box-sizing: border-box;
+justify-content: space-between;
+}
+span{
+font-size:32px;
+color: crimson;
+box-sizing: border-box;
+}
+.header >div{
+width:100%;
+margin-left:4vmax;
+}
+.header >svg{
+color:white;
+font-size:1.6rem;
+cursor: pointer;
+&:hover{
+color:rgb(216,216,216);
+}
+}
